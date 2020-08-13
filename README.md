@@ -1,4 +1,4 @@
-### Hi there, I'm Andrey - aka AloneLegion 👋
+### Hi there, I'm Andrey - aka [AloneLegion][website]  👋
 
 ## I'm a Golang Developer
 
@@ -7,10 +7,17 @@
 - 🤔 I’m looking for help with GraphQl/MongoDB and Swagger
 - ⚡ Fun fact: I love Magic:The Gathering and play guitar
 
+### Connect with me:
+
+[<img align="left" alt="alonelegion.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Alonelegion | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AloneLegion | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 ### Language and Tools:
 
 <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -25,3 +32,7 @@
 - [Medium: Строим простой Golang RESTful API сервер c Gin, Postgres и Gorm](https://medium.com/@com.berdin/%D1%81%D1%82%D1%80%D0%BE%D0%B8%D0%BC-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9-golang-restful-api-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-c-gin-postgres-%D0%B8-gorm-e76ac21c275e)
 ---
 <img align="left" alt="AloneLegion's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alonelegion&show_icons=true&hide_border=true" />
+
+[website]: https://alonelegion.com
+[instagram]: https://instagram.com/commandershot
+[linkedin]: https://linkedin.com/in/andrey-berdin-7a9250141
