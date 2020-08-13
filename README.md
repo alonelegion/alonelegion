@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I'm Andrey - aka AloneLegion 👋
 
-<!--
-**alonelegion/alonelegion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Golang Developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on microservices RESTful API
+- 🌱 I’m currently learning Golang and everything
+- 🤔 I’m looking for help with GraphQl/MongoDB and Swagger
+- ⚡ Fun fact: I love Magic:The Gathering and play guitar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Language and Tools:
+
+<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br />
+<br />
+
+---
+### 📕 Latest Blog Posts
+- [Medium: Строим простой Golang RESTful API сервер c Gin, Postgres и Gorm](https://medium.com/@com.berdin/%D1%81%D1%82%D1%80%D0%BE%D0%B8%D0%BC-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9-golang-restful-api-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-c-gin-postgres-%D0%B8-gorm-e76ac21c275e)
+---
+<img align="left" alt="AloneLegion's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alonelegion&show_icons=true&hide_border=true" />
