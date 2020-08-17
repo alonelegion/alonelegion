@@ -31,13 +31,14 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 <br />
-<br />
 
 ---
 ### 📕 Latest Blog Posts
 - [Medium: Строим простой Golang RESTful API сервер c Gin, Postgres и Gorm](https://medium.com/@com.berdin/%D1%81%D1%82%D1%80%D0%BE%D0%B8%D0%BC-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9-golang-restful-api-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-c-gin-postgres-%D0%B8-gorm-e76ac21c275e)
 ---
 <img align="left" alt="AloneLegion's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alonelegion&show_icons=true&hide_border=true" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonelegion&layout=compact&card_width=445&hide_border=true" />
 
 [website]: https://alonelegion.com
 [instagram]: https://instagram.com/commandershot
