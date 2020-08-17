@@ -34,7 +34,7 @@
 ---
 <img align="left" alt="AloneLegion's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alonelegion&show_icons=true&hide_border=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonelegion&layout=compact&card_width=445" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonelegion&layout=compact&card_width=445&hide_border=true" />
 
 [website]: https://alonelegion.com
 [instagram]: https://instagram.com/commandershot
